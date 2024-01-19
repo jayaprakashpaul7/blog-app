@@ -1,0 +1,33 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.profile-img {
+  width: 100px;
+}
+.profile-name {
+  font-size: 22px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  color: #12022f;
+}
+.role {
+  font-weight: 500;
+  color: #616e7c;
+  font-family: 'Roboto';
+}
+.blog-c {
+  padding: 0px;
+}
+.blog-item {
+  list-style-type: none;
+  width: 100%;
+}
+.blog-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
